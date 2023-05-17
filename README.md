@@ -1,4 +1,4 @@
-### Hi, I am Alekssey Kostov! 👋
+### Hi, I am Aleksey Kostov! 👋
  
 
 
