@@ -3,6 +3,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-kostov-b09249198/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kostovalekseyrex@gmail.com)
 
 ### GitHub Stats
 
