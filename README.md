@@ -8,11 +8,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Kostov&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Kostov&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Kostov&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Kostov&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -20,5 +20,5 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&theme=default&hide_border=true&background=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&hide_border=true" />
 </p>
