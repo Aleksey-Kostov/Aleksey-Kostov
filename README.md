@@ -4,6 +4,38 @@
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kostovalekseyrex@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Aleksey-Kostov&color=green)
 
+## 🚀 About Me
+
+Python / Django Full-Stack Developer with a strong engineering background and hands-on experience building production-ready web applications.  
+Focused on backend development, clean architecture, and scalable systems.
+
+- 💻 Backend: Python, Django, Django ORM, REST APIs  
+- 🗄 Databases: PostgreSQL  
+- 🎨 Frontend: HTML, CSS, JavaScript  
+- ⚙️ DevOps: Docker, Jenkins, CI/CD concepts  
+- 🛡 Cybersecurity fundamentals & Linux basics  
+- 🌱 Continuously improving skills in cloud platforms and system design  
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ---
 
 ### 🔥 My Stats :
