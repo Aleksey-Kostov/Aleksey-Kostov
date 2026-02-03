@@ -5,20 +5,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 My Stats :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Kostov&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Kostov&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Kostov&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
