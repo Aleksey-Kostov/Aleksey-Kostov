@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-kostov-b09249198/)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kostovalekseyrex@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
 ---
 
