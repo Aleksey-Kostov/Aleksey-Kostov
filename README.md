@@ -13,8 +13,8 @@ Focused on backend development, clean architecture, and scalable systems.
 - 🗄 Databases: PostgreSQL  
 - 🎨 Frontend: HTML, CSS, JavaScript  
 - ⚙️ DevOps: Docker, Jenkins, CI/CD concepts  
-- 🛡 Cybersecurity fundamentals & Linux basics  
-- 🌱 Continuously improving skills in cloud platforms and system design  
+- 🛡 Cybersecurity fundamentals & Kali Linux  
+- 🌱 Actively expanding skills in cloud platforms and system design
 
 ---
 
