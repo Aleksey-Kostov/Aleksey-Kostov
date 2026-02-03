@@ -41,7 +41,10 @@ Focused on backend development, clean architecture, and scalable systems.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&hide_border=true)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Kostov&no-frame=true&row=1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleksey-Kostov&hide_border=true)](https://git.io/streak-stats)
+
+![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Kostov&show_icons=true&hide_border=true)
+
 
 
 
