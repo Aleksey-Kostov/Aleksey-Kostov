@@ -39,5 +39,4 @@ Focused on backend development, clean architecture, and scalable systems.
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleksey-Kostov&hide_border=true)](https://git.io/streak-stats)
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleksey-Kostov)
