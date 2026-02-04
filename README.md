@@ -39,4 +39,6 @@ Focused on backend development, clean architecture, and scalable systems.
 
 ### 🔥 My Stats :
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aleksey-Kostov)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Kostov)
+![Streak](https://streak-stats.demolab.com/?user=Aleksey-Kostov)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Kostov)
